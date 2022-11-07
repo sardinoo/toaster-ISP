@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+#nav {
+    displ
+}
+
 ol {
     display: flex;
     gap: 5px;
@@ -14,3 +18,4 @@ ol {
 a {
     text-decoration: none;
 }
+
